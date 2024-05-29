@@ -1,3 +1,5 @@
+![1716978916276](.github/image/README/1716978916276.png)
+
 wagtail_meta
 ================
 
@@ -32,8 +34,8 @@ Quick start
    <head>
        ...
 
-       {% meta_tags %}
-       {# Optionally call with model argument {% meta_tags settings.wagtail_meta.metatags.tags %} #}
+       {% metatags %}
+       {# Optionally call with model argument {% metatags settings.wagtail_meta.metatags.tags %} #}
 
        ...
    </head>
