@@ -1,4 +1,4 @@
-![1716978916276](.github/image/README/1716978916276.png)
+![1716979011262](image/README/1716979011262.png)
 
 wagtail_meta
 ================
