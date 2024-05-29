@@ -1,0 +1,14 @@
+name: wagtail_meta
+context:
+    description: This is a python project template
+    versionMapping:
+        setup.cfg: '((?:(\d+)\.)?(?:(\d+)\.)?(\*|\d+))'
+beforeCopy: null
+afterCopy: null
+commands: {}
+delimLeft: '@{'
+delimRight: '}'
+exclude:
+    - '*node_modules*'
+    - '*dist*'
+    - ./.git
